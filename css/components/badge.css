@@ -1,0 +1,10 @@
+.badge {
+  line-height: 20px !important;
+  width: 20px !important;
+  padding: 0 !important;
+  background: #D4312D !important;
+  /*here, you move the three to put it in the top-right corner*/
+  position: relative !important;
+  top: -15px !important;
+  left: -15px !important;
+}
